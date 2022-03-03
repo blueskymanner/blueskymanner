@@ -22,20 +22,18 @@ Here are some ideas to get you started:
   <a href="https://github.com/starbinna"><img src="https://github.com/blueskymanner/blueskymanner/blob/main/haed_line.svg"></a>
 </p>
 
-
+<h4 align="center">
 ####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
+</h4>
 
-
-✅    Smart Contract(Solidity, Rust) Hardhat, Truffle <br />
-✅    React.js, NextJs, JS/TS, Web3.js, Ethers.js <br />
+✅    Smart Contract(Solidity, Rust), Hardhat, Truffle <br />
+✅    React.js, Vue.js, NextJs, JS/TS, Web3.js, Ethers.js <br />
 ✅    DeFi, Dex Vault from Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon, Avalanche, etc) <br />
 ✅    NFT marketplaces, ICO, IDO Landing page, Opensea APIs, Thegraph, Moralis API, Ox API, Etherscan APIs, SDK <br />
 ✅    GameFi (Play 2 Earn Games) <br />
 
 
-
 <h4 align="center"><i>Always</i>  Lᵒᵛᵉᵧₒᵤ♡ <i>Forever</i></h4>
-
 
 
 > GitHub Profile Status
@@ -48,6 +46,7 @@ Here are some ideas to get you started:
 <br/>
 
 
+<br/>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
 </div>
