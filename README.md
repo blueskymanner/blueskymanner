@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 
-####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Rust-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Javascript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) 
+####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4) ![](https://img.shields.io/badge/Smart%20Contract-%7C-blue) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Javascript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Rust-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) 
 
 
 ✅    Smart Contract(Solidity, Rust), Hardhat, Truffle <br />
