@@ -22,12 +22,12 @@ Here are some ideas to get you started:
   <a href="https://github.com/starbinna"><img src="https://github.com/blueskymanner/blueskymanner/blob/main/haed_line.svg"></a>
 </p>
 
-<h4 align="center">
-####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
-</h4>
+
+####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Rust-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Javascript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) 
+
 
 ✅    Smart Contract(Solidity, Rust), Hardhat, Truffle <br />
-✅    React.js, Vue.js, NextJs, JS/TS, Web3.js, Ethers.js <br />
+✅    React.js, Vue.js, Node.js, NextJs, JS/TS, Web3.js, Ethers.js <br />
 ✅    DeFi, Dex Vault from Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon, Avalanche, etc) <br />
 ✅    NFT marketplaces, ICO, IDO Landing page, Opensea APIs, Thegraph, Moralis API, Ox API, Etherscan APIs, SDK <br />
 ✅    GameFi (Play 2 Earn Games) <br />
@@ -89,7 +89,9 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+
+
 > GitHub Activity Graph
 
+
 <a href="https://github.com/blueskymanner/blueskymanner"><img alt="atosinu's activity graph" src="https://activity-graph.herokuapp.com/graph?username=blueskymanner&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-  
